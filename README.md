@@ -13,3 +13,5 @@
 - vlookup
 - Tabuleau
 - ElasticSearch
+- html设计表格
+- 自动查询并添加附件发送邮件
