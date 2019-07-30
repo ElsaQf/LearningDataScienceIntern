@@ -11,3 +11,4 @@
 - 若结果为None,返回0
     + if result is None: return 0
 - getdata()返回数值，html拼接字符串，转成'''+str(result+result1)+'''计算后拼接
+![图片](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/AutoPostEmail/%E9%82%AE%E4%BB%B6%E6%AD%A3%E6%96%87%E8%AE%A1%E7%AE%97%E5%90%8E%E6%98%BE%E7%A4%BA%E8%A1%A8%E6%A0%BC.png)
