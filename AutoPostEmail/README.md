@@ -8,6 +8,7 @@
 ![图片](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/AutoPostEmail/%E8%87%AA%E5%8A%A8%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6%E6%A0%BC%E5%BC%8F.png)
 
 ## html-td后拼接字符串，需要getdata()返回数值型结果Decimal/int
+![图片](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/AutoPostEmail/td%E6%8B%BC%E6%8E%A5str(r1%2Br2).png)
 - 若结果为None,返回0
     + if result is None: return 0
 - getdata()返回数值，html拼接字符串，转成'''+str(result+result1)+'''计算后拼接
