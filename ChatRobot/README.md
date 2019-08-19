@@ -10,7 +10,7 @@
   
 使用同学的微信账号测试，截图是同学定时发送给我的测试结果
     
-## 定时发送
-
-- 效果图如下：
+- 早安问候：
 ![聊天截图](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/ChatRobot/%E8%81%8A%E5%A4%A9%E6%88%AA%E5%9B%BE.png)
+- 天气提醒：
+- 企业微信群机器人：
