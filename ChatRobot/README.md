@@ -15,3 +15,4 @@
 ### 天气提醒：
 ![天气提醒](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/ChatRobot/%E5%A4%A9%E6%B0%94%E6%8F%90%E9%86%92.jpg)
 ### 企业微信群机器人：
+![企业微信群机器人](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/ChatRobot/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A9%E6%B0%94%E6%8F%90%E9%86%92.png)
