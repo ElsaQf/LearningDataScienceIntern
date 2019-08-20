@@ -14,6 +14,8 @@
 - init 初始化企业ID，应用secret,应用agentID,接收人列表（必须应用可见），部门ID
 - get_access_token
 - send_data
+
+用的是我自己申请的企业（可改成其他，配套修改）
     
 ### 早安问候：
 ![聊天截图](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/ChatRobot/%E8%81%8A%E5%A4%A9%E6%88%AA%E5%9B%BE.png)
