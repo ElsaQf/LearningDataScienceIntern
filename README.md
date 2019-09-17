@@ -23,7 +23,8 @@
         - 企业微信群发功能（接收人列表，不是群机器人）
 
 ## 实习经历
-                ![实习经历01](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/PicturesUsing/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%8601.JPG)
+![实习经历01](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/PicturesUsing/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%8601.JPG)
+#### 实习内容
                 - 日常数据查询和分析工作：产品、运营、开发对接
                         + 询问需求（最近收入下降了，原因？）
                         + 分析（放贷政策，大环境，资金周转问题，骗贷）
