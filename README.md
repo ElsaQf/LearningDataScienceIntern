@@ -21,6 +21,13 @@
         - 微信聊天定时发送（定时提醒早晚安，吃饭，生日，天气）
         - 企业微信机器人推送消息（数据告警，打卡、天气提醒）
         - 企业微信群发功能（接收人列表，不是群机器人）
+        
+
+## 数据科学部 DS
+        1. 司机招募
+        2. 模板
+        3. hive 分区查询（每日全量，每日增量）
+
 
 ## 实习经历
 ![实习经历01](https://github.com/ElsaQf/LearningDataScienceIntern/blob/master/PicturesUsing/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%8601.JPG)
